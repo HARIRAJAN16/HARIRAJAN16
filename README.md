@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @HARIRAJAN16
+- 👋 Hi, I’m HARIRAJAN M
 - 👀 I’m interested in CODING ✨ 
 - 🌱 I’m currently learning B.E ON ELECTRONICS AND COMMUNICATION ENGINEERING 
 
