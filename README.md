@@ -1,7 +1,7 @@
 # Hi there 👋 It's me HARIRAJAN M
 
  **Passionate software enthusiast with a strong foundation in programming and problem-solving.**
-<img align="right" width="330" height="290" src="https://i.pinimg.com/originals/d8/93/5c/d8935c16b449f0ec8396ab5252772f45.jpg">                                               
+<img align="right" width="330" height="290" src="https://ignitepotential.com/wp-content/uploads/2021/02/Quote3-1024x1024.jpg">                                               
 - 🌱 I’m currently learning DSA
 - 👯 I’m looking to collaborate on Data Science.
 - 💬 Ask me about Tech
