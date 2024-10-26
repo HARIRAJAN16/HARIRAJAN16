@@ -1,6 +1,16 @@
-- 👋 Hi, I’m HARIRAJAN M
-- 👀 I’m interested in CODING ✨ 
-- 🌱 I’m currently learning B.E ON ELECTRONICS AND COMMUNICATION ENGINEERING
+# Hi there 👋 It's me HARIRAJAN M
+
+ **Passionate software enthusiast with a strong foundation in programming and problem-solving.**
+<img align="right" width="330" height="290" src="https://i.pinimg.com/originals/d8/93/5c/d8935c16b449f0ec8396ab5252772f45.jpg">                                               
+- 🌱 I’m currently learning DSA
+- 👯 I’m looking to collaborate on Data Science.
+- 💬 Ask me about Tech
+- 📫 How to reach me :
+<br /> [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](www.linkedin.com/in/harirajan-m-45867225a)
+- 😄 Pronouns: Techie
+- ⚡ Fun fact: Code explorer.
+
+![Akash242005's Stats](https://github-readme-stats.vercel.app/api?username=Akash242005&theme=tokyonight&show_icons=true&hide_border=true&count_private=true)
 - ![LeetCode Stats](https://leetcode.panchajanya.dev/HARIRAJAN_M?theme=forest&font=Oregano&ext=activity)
 - ![harirajan16's Stats](https://github-readme-stats.vercel.app/api?username=harirajan16&theme=dracula&show_icons=true&hide_border=true&count_private=true)
 
