@@ -6,7 +6,7 @@
 - 👯 I’m looking to collaborate on Data Science.
 - 💬 Ask me about Tech
 - 📫 How to reach me :
-<br /> [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](www.linkedin.com/in/harirajan-m-45867225a).
+<br /> [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/harirajan-m-45867225a/).
 - 😄 Pronouns: Techie
 - ⚡ Fun fact: Code explorer.
 - ![LeetCode Stats](https://leetcode.panchajanya.dev/HARIRAJAN_M?theme=forest&font=Oregano&ext=activity)
