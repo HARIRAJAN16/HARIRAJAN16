@@ -1,6 +1,7 @@
 - 👋 Hi, I’m HARIRAJAN M
 - 👀 I’m interested in CODING ✨ 
-- 🌱 I’m currently learning B.E ON ELECTRONICS AND COMMUNICATION ENGINEERING 
+- 🌱 I’m currently learning B.E ON ELECTRONICS AND COMMUNICATION ENGINEERING
+- ![harirajan16's Stats](https://github-readme-stats.vercel.app/api?username=harirajan16&theme=dracula&show_icons=true&hide_border=true&count_private=true)
 
 <!---
 HARIRAJAN16/HARIRAJAN16 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
