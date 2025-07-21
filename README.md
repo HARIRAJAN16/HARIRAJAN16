@@ -7,7 +7,6 @@
 ---
 
 ## 👨‍💻 About Me
-
 - 🎓 Final year ECE student at M.Kumarasamy College of Engineering, Karur
 - 💡 Interested in Web Development, IoT & Embedded Systems
 - 🛠️ Building mini projects with HTML, CSS, JS, and ESP32-CAM
