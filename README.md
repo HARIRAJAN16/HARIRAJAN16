@@ -9,3 +9,8 @@
 ### 📊 GitHub Stats
 
 ![harirajan16's Stats](https://github-readme-stats.vercel.app/api?username=harirajan16&theme=dracula&show_icons=true&hide_border=true&count_private=true)
+## 📫 Connect with Me
+
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/harirajan16)
+[![Gmail](https://img.shields.io/badge/-harirajan16@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white)](mailto:harirajan16@gmail.com)
+
