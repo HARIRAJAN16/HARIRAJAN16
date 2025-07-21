@@ -1,4 +1,4 @@
-# Hi there 👋 I'm HARIRAJAN M
+# 👋 Hi there, I'm HARIRAJAN M
 
 **💻 Passionate software enthusiast with a strong foundation in programming and problem-solving**
 
@@ -7,17 +7,13 @@
 ---
 
 ## 👨‍💻 About Me
-- 🎓 Final year ECE student at M.Kumarasamy College of Engineering, Karur
-- 💡 Interested in Web Development, IoT & Embedded Systems
-- 🛠️ Building mini projects with HTML, CSS, JS, and ESP32-CAM
-- 💬 Ask me about C, Java, Bootstrap, or anything tech!
-- 💼 Dream: Get placed in a top product-based company
 
----
-
-## 📊 GitHub Stats
-
-![harirajan16's Stats](https://github-readme-stats.vercel.app/api?username=harirajan16&theme=dracula&show_icons=true&hide_border=true&count_private=true)
+- 🎓 Final year ECE student at M.Kumarasamy College of Engineering, Karur  
+- 💡 Interested in Web Development, IoT & Embedded Systems  
+- 🛠️ Building mini projects using HTML, CSS, JS, and ESP32-CAM  
+- 💬 Ask me about C, Java, Bootstrap, or anything tech-related!  
+- 🚀 Currently learning React.js & Verilog HDL  
+- 💼 Dream: Get placed in a top product-based company  
 
 ---
 
@@ -30,6 +26,12 @@
 ![CSS](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?style=flat-square&logo=bootstrap)
+
+---
+
+## 📊 GitHub Stats
+
+![harirajan16's Stats](https://github-readme-stats.vercel.app/api?username=harirajan16&theme=dracula&show_icons=true&hide_border=true&count_private=true)
 
 ---
 
