@@ -6,9 +6,21 @@
 
 ---
 
-### 📊 GitHub Stats
+## 👨‍💻 About Me
+
+- 🎓 Final year ECE student at M.Kumarasamy College of Engineering, Karur
+- 💡 Interested in Web Development, IoT & Embedded Systems
+- 🛠️ Building mini projects with HTML, CSS, JS, and ESP32-CAM
+- 💬 Ask me about C, Java, Bootstrap, or anything tech!
+- 💼 Dream: Get placed in a top product-based company
+
+---
+
+## 📊 GitHub Stats
 
 ![harirajan16's Stats](https://github-readme-stats.vercel.app/api?username=harirajan16&theme=dracula&show_icons=true&hide_border=true&count_private=true)
+
+---
 
 ## 🛠️ Languages & Tools
 
@@ -20,9 +32,9 @@
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?style=flat-square&logo=bootstrap)
 
+---
 
 ## 📫 Connect with Me
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/harirajan16)
-[![Gmail](https://img.shields.io/badge/-harirajan16@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white)](mailto:harirajan16@gmail.com)
 
