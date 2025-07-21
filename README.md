@@ -1,19 +1,16 @@
-# 👋 Hi there, I'm HARIRAJAN M
+# Hi there 👋 I'm HARIRAJAN M
 
 **💻 Passionate software enthusiast with a strong foundation in programming and problem-solving**
 
-<img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" height="300">
 
 ---
 
 ## 👨‍💻 About Me
-
-- 🎓 Final year ECE student at M.Kumarasamy College of Engineering, Karur  
-- 💡 Interested in Web Development, IoT & Embedded Systems  
-- 🛠️ Building mini projects using HTML, CSS, JS, and ESP32-CAM  
-- 💬 Ask me about C, Java, Bootstrap, or anything tech-related!  
-- 🚀 Currently learning React.js & Verilog HDL  
-- 💼 Dream: Get placed in a top product-based company  
+- 🎓 Final year ECE student at M.Kumarasamy College of Engineering, Karur
+- 💡 Interested in Web Development, IoT & Embedded Systems
+- 🛠️ Building mini projects with HTML, CSS, JS, and ESP32-CAM
+- 💬 Ask me about C++, Java, Bootstrap, or anything tech!
+- 💼 Dream: Get placed in a top product-based company
 
 ---
 
@@ -38,4 +35,3 @@
 ## 📫 Connect with Me
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/harirajan16)
-
