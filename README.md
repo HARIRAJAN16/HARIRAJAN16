@@ -2,7 +2,7 @@
 
 **💻 Passionate software enthusiast with a strong foundation in programming and problem-solving**
 
-<img align="right" src="https://ignitepotential.com/wp-content/uploads/2021/02/Quote3-1024x1024.jpg" width="300" height="300">
+<img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" height="300">
 
 ---
 
